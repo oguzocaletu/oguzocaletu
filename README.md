@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @oguzocaletu
-- 👀 I’m interested in ... Operating Systens
-- 🌱 I’m currently learning ... Java Spring boot, Microservice Architechture Docker - Docker Compose Container Technology
- -    As my tools i'm planning to learn Machine Learning, Deep Learning, Data Mining, Big Data 
-- 💞️ I’m looking to collaborate on ... Building an Operating System from scratch 
+- 👀 I’m interested in ... Data Science 
+- 🌱 I’m currently learning ...Machine Learning Algorithhms, Java Spring boot, Microservice Architechture Docker - Docker Compose Container Technology
+ -    As my tools i'm planning to learn  Deep Learning, Data Mining, Big Data 
+- 💞️ I’m looking to collaborate on ... Building an ML-Big Data Project
 - 📫 How to reach me ... Reach me on oguzocaletu@gmail.com
 
 <!---
